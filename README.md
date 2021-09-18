@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**keyvchan/keyvchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Keyv.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [CWE_Detection](https://github.com/keyvchan/CWE_Detection)
+- [OpenSearch](https://github.com/keyvchan/OpenSearch)
+
+### Interested fields
+
+- Static Analysis
+- Deep learning in Production
+- Full-stack developments
+- Operating system concepts
+- And anything bleeding edge 😄
+
+### Education
+
+- 2020 ~ now, Southeast University, Master Degree
+- 2016 ~ 2020, Nanjin University of Posts and Telecommunication, Bachelor Degree
