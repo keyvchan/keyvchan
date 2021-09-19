@@ -2,12 +2,12 @@
 
 I'm Keyv.
 
-### Projects
+### 👨‍💻 Projects
 
-- [CWE_Detection](https://github.com/keyvchan/CWE_Detection)
-- [OpenSearch](https://github.com/keyvchan/OpenSearch)
+- [CWE_Detection](https://github.com/keyvchan/CWE_Detection): A collection of scripts can be used to detect CWE.
+- [OpenSearch](https://github.com/keyvchan/OpenSearch): A self-hosted search engine.
 
-### Interested fields
+### 🔭 Interested fields
 
 - Static Analysis
 - Deep learning in Production
@@ -15,7 +15,7 @@ I'm Keyv.
 - Operating system concepts
 - And anything bleeding edge 😄
 
-### Education
+### 📖 Education
 
 - 2020 ~ now, Southeast University, Master Degree
 - 2016 ~ 2020, Nanjin University of Posts and Telecommunication, Bachelor Degree
