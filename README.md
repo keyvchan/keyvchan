@@ -10,12 +10,13 @@ I'm Keyv.
 ### 🔭 Interested fields
 
 - Static Analysis
-- Deep learning in Production
+- Deep learning
 - Full-stack developments
 - Operating system concepts
+- Compiler
 - And anything bleeding edge 😄
 
 ### 📖 Education
 
-- 2020 ~ now, Southeast University, Master Degree
-- 2016 ~ 2020, Nanjin University of Posts and Telecommunication, Bachelor Degree
+- 2020 ~ now, Southeast University, Major in Cyber Science and Engineering, Master Degree
+- 2016 ~ 2020, Nanjing University of Posts and Telecommunications, Major in Network Engineering, Bachelor Degree
