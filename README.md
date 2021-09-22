@@ -18,5 +18,5 @@ I'm Keyv.
 
 ### 📖 Education
 
-- 2020 ~ now, Southeast University, Major in Cyber Science and Engineering, Master Degree
-- 2016 ~ 2020, Nanjing University of Posts and Telecommunications, Major in Network Engineering, Bachelor Degree
+- 2020 ~ now, Southeast University, Master Student, Major in Cyber Science and Engineering
+- 2016 ~ 2020, Nanjing University of Posts and Telecommunications, Bachelor Degree, Major in Network Engineering
