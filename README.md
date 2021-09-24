@@ -5,6 +5,7 @@ I'm Keyv.
 ### 👨‍💻 Projects
 
 - [CWE_Detection](https://github.com/keyvchan/CWE_Detection): A collection of scripts can be used to detect CWE.
+- [cpfg](https://github.com/keyvchan/cpfg): Constant propagation library for `Ghidra`.
 - [OpenSearch](https://github.com/keyvchan/OpenSearch): A self-hosted search engine.
 
 ### 🔭 Interested fields
