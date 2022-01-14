@@ -16,8 +16,3 @@ I'm Keyv.
 - OS Kernel 
 - Reverse Engineering 
 - Developer tooling (especially neovim)
-
-### 📖 Education
-
-- 2020 ~ now, Southeast University, Master Student, Major in Cyber Science and Engineering
-- 2016 ~ 2020, Nanjing University of Posts and Telecommunications, Bachelor Degree, Major in Network Engineering
