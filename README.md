@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Keyv. 
+I'm Keyv. Master student, developer, pro gamer, electronics enthusiast😉
 
 ### 📋 Projects
 
